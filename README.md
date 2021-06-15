@@ -3,7 +3,7 @@
 # I'm an extremely passionate iOS Developer
 
 ## About Me 😁
-* 📱 iOS Developer / Freelancer
+* 📱 iOS Developer 
 
 * ✨ UI / UX Enthusiast
 
